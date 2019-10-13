@@ -34,4 +34,12 @@ ul>li>a{
   text-decoration: none;
   color:#fff;
 }
+ul{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul>li{
+  flex:1;
+}
 </style>
